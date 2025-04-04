@@ -3,7 +3,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="https://github.com/OTA-Tech-AI/OTA-v1/blob/main/figures/OTA-Beholder.png?raw=true" width="20%" alt="OTA-v1" style="border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/bae2201a-dfff-4581-8f2e-b949616ff7cd" width="100%" alt="OTA-v1" style="border-radius: 10px;" />
 </div>
 <div align="center" style="line-height: 1;">
   <a href="https://www.otatech.ai/ota-agent"><img alt="Homepage"
@@ -31,8 +31,9 @@ Optimized for **local deployment**, OTA-v1 enables fast, efficient inference dir
 
 ### BAM
 
-- [ ] Extend OTA-v1 to handle more complex tasks
-- [ ] Improve action accuracy through better context understanding
+- [ ] Support Multi-Modality for visual understanding
+- [ ] Extend OTA-v1 to handle more complex tasks with long memeroy
+- [ ] Improve action accuracy through context awareness and elements attention 
 
 ### Serving
 
@@ -41,7 +42,7 @@ Optimized for **local deployment**, OTA-v1 enables fast, efficient inference dir
 
 ### Datasets
 
-- [ ] Collect real human browser interaction data for training
+- [ ] Collect browser interactions usage data from human users
 - [ ] Build tools to annotate and structure action datasets
 
 ### Agent Framework
