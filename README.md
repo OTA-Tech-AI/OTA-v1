@@ -5,11 +5,17 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bae2201a-dfff-4581-8f2e-b949616ff7cd" width="100%" alt="OTA-v1" style="border-radius: 10px;" />
 </div>
+<br>
 <div align="center" style="line-height: 1;">
   <a href="https://www.otatech.ai/ota-agent"><img alt="Homepage"
     src="https://img.shields.io/badge/Home-Page-blue"/></a>
   <a href="https://huggingface.co/OTA-AI/OTA-v1"><img alt="Hugging Face"
     src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-OTA%20AI-ffc107?color=ffc107&logoColor=white"/></a>
+  <a href="https://github.com/OTA-Tech-AI/OTA-v1/blob/main/LICENSE"><img alt="Code License"
+    src="https://img.shields.io/badge/Code_License-MIT-f5de53?&color=f5deff"/></a>
+  <a href="https://github.com/OTA-Tech-AI/OTA-v1/blob/main/LICENSE-MODEL"><img alt="Model License"
+    src="https://img.shields.io/badge/Model_License-Model_Agreement-f5de53?&color=945283"/></a>
+  <br><br><br>
 </div>
 
 # OTA-v1: Observe, Think, Act
