@@ -32,8 +32,8 @@ Optimized for **local deployment**, OTA-v1 enables fast, efficient inference dir
 ### BAM
 
 - [ ] Support Multi-Modality for visual understanding
-- [ ] Extend OTA-v1 to handle more complex tasks with long memeroy
-- [ ] Improve action accuracy through context awareness and elements attention 
+- [ ] Extend OTA-v1 to handle more complex tasks with long memory
+- [ ] Improve action accuracy through context awareness and inter-element attention 
 
 ### Serving
 
@@ -47,5 +47,5 @@ Optimized for **local deployment**, OTA-v1 enables fast, efficient inference dir
 
 ### Agent Framework
 
-- [ ] Design an optimized agent framework centered around our BAMs
+- [ ] Design an optimized browser agent framework centered around our BAMs
 - [ ] Support modular extensions and task-specific plugins
