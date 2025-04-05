@@ -33,6 +33,20 @@ Optimized for **local deployment**, OTA-v1 enables fast, efficient inference dir
 - ⚡ **Lightweight & Local**: Deployable on individual machines for low-latency, offline use.
 - 🎯 **Action-Driven Output**: Produces clear, structured actions for browser interaction.
 
+## Quick Start Using Ollama
+
+``` cli
+ollama run hf.co/OTA-AI/OTA-v1
+```
+
+## Using Ollama Modelfile
+
+You need to edit the first line of the Modelfile to specify the model path, then
+
+```
+ollama create OTA-v1 -f ./Modelfile
+```
+You may specify either to use Q8 or Q4 quantize version of the model
 
 ## Roadmap
 
