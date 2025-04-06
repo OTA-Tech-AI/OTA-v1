@@ -39,14 +39,9 @@ Optimized for **local deployment**, OTA-v1 enables fast, efficient inference dir
 ollama run hf.co/OTA-AI/OTA-v1
 ```
 
-## Using Ollama Modelfile
+## BAM Client: Use OTA-v1 with Browser-Use
 
-You need to edit the first line of the Modelfile to specify the model path, then
-
-```
-ollama create OTA-v1 -f ./Modelfile
-```
-You may specify either to use Q8 or Q4 quantize version of the model
+(https://github.com/OTA-Tech-AI/BAM-Client/)
 
 ## Roadmap
 
